@@ -1,0 +1,3 @@
+/home/ming/Documents/merge_file/CMakeFiles/rebuild_cache.dir
+/home/ming/Documents/merge_file/CMakeFiles/main.dir
+/home/ming/Documents/merge_file/CMakeFiles/edit_cache.dir
